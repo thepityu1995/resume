@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.10)  5 APR 2022 15:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.10)  5 APR 2022 16:23
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -659,22 +659,27 @@ Underfull \hbox (badness 2644) in paragraph at lines 96--97
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 99--100
+Underfull \hbox (badness 1147) in paragraph at lines 98--99
+[]\OT1/cmr/m/n/10.95 make ar-chi-tec-ture and sys-tem de-sign about the
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 104--105
 []\OT1/cmr/m/n/10.95 developing source code for STM32 de-vel-op-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--108
+Underfull \hbox (badness 10000) in paragraph at lines 109--113
 
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 104--108
+Underfull \hbox (badness 1496) in paragraph at lines 109--113
 \OT1/cmr/bx/n/10.95 Robot arm po-si-tion-ing with com-puter vi-sion:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--108
+Underfull \hbox (badness 10000) in paragraph at lines 109--113
 
  []
 
@@ -682,32 +687,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--108
 
 {C:/Users/nagy.istvan/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./picture
 s/pic.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
+Underfull \hbox (badness 10000) in paragraph at lines 148--154
 
  []
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 143--149
+Underfull \hbox (badness 2237) in paragraph at lines 148--154
 \OT1/cmr/m/n/10.95 I was de-vel-op-ing and main-tan-ing AU-TOSAR mod-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
+Underfull \hbox (badness 10000) in paragraph at lines 148--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
+Underfull \hbox (badness 10000) in paragraph at lines 148--154
 
  []
 
 
-Underfull \hbox (badness 2591) in paragraph at lines 167--169
+Underfull \hbox (badness 2591) in paragraph at lines 172--174
 []\OT1/cmr/m/n/10.95 test con-fig-u-ra-tion gen-er-a-tor with JU-nit test-ing
  []
 
@@ -727,7 +732,7 @@ b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
  Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmti10.pfb>
-Output written on cv.pdf (2 pages, 220024 bytes).
+Output written on cv.pdf (2 pages, 220071 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
